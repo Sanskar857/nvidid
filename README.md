@@ -1,0 +1,2 @@
+# nvidid
+amd vs nvidid
